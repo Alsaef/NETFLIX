@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "title": "Extraction 3",
+    "description": "Tyler Rake returns for another high-octane mission through dangerous territories.",
+    "poster": "https://i.ytimg.com/vi/4UPd3XvHEBE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAynDfAIYxfc0mFIXXRkc5vOnAp_Q",
+    "genre": "Action",
+    "year": 2025,
+    "rating": "9.1"
+  },
+  {
+    "id": 2,
+    "title": "The Electric State",
+    "description": "A retro-futuristic adventure across the American West with a girl and her robot.",
+    "poster": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=500&auto=format&fit=crop",
+    "genre": "Sci-Fi",
+    "year": 2025,
+    "rating": "8.5"
+  },
+  {
+    "id": 3,
+    "title": "Peaky Blinders: The Movie",
+    "description": "Tommy Shelby faces his final reckoning in this epic feature film conclusion.",
+    "poster": "https://images.unsplash.com/photo-1594909122845-11baa439b7bf?q=80&w=500&auto=format&fit=crop",
+    "genre": "Crime",
+    "year": 2026,
+    "rating": "9.4"
+  },
+  {
+    "id": 4,
+    "title": "Havoc",
+    "description": "A bruised detective must fight his way through a criminal underworld.",
+    "poster": "https://images.unsplash.com/photo-1485846234645-a62644f84728?q=80&w=500&auto=format&fit=crop",
+    "genre": "Thriller",
+    "year": 2025,
+    "rating": "8.2"
+  },
+  {
+    "id": 5,
+    "title": "Stranger Things 5",
+    "description": "One last journey into the Upside Down to save Hawkins and the world.",
+    "poster": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?q=80&w=500&auto=format&fit=crop",
+    "genre": "Horror",
+    "year": 2025,
+    "rating": "9.8"
+  },
+  {
+    "id": 6,
+    "title": "Narnia: Reborn",
+    "description": "Greta Gerwig's reimagining of the classic C.S. Lewis tale.",
+    "poster": "https://images.unsplash.com/photo-1626814026160-2237a95fc5a0?q=80&w=500&auto=format&fit=crop",
+    "genre": "Fantasy",
+    "year": 2026,
+    "rating": "8.9"
+  },
+  {
+    "id": 7,
+    "title": "The Old Guard 2",
+    "description": "Andromache and her band of immortals face a new threat from their past.",
+    "poster": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?q=80&w=500&auto=format&fit=crop",
+    "genre": "Action",
+    "year": 2025,
+    "rating": "7.9"
+  },
+  {
+    "id": 8,
+    "title": "Back in Action",
+    "description": "Two former CIA spies are dragged back into espionage when their cover is blown.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWQ4YWYxYTAtZTlhNC00Nzc3LWE3OWUtZjY5MThlNWNiYTBiXkEyXkFqcGc@._V1_.jpg",
+    "genre": "Comedy",
+    "year": 2025,
+    "rating": "7.4"
+  },
+  {
+    "id": 9,
+    "title": "The Night Agent",
+    "description": "A low-level FBI agent is thrust into a conspiracy that reaches the White House.",
+    "poster": "https://images.unsplash.com/photo-1533107862482-0e6974b06ec4?q=80&w=500&auto=format&fit=crop",
+    "genre": "Thriller",
+    "year": 2025,
+    "rating": "8.7"
+  },
+  {
+    "id": 10,
+    "title": "Wednesday S2",
+    "description": "Wednesday Addams investigates a new mystery at Nevermore Academy.",
+    "poster": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?q=80&w=500&auto=format&fit=crop",
+    "genre": "Fantasy",
+    "year": 2025,
+    "rating": "9.2"
+  },
+  {
+    "id": 11,
+    "title": "Enola Holmes 3",
+    "description": "Enola takes on a case in Malta that pits her against a new mastermind.",
+    "poster": "https://images.unsplash.com/photo-1585647347483-22b66260dfff?q=80&w=500&auto=format&fit=crop",
+    "genre": "Mystery",
+    "year": 2026,
+    "rating": "8.1"
+  },
+  {
+    "id": 12,
+    "title": "The Witcher",
+    "description": "Geralt of Rivia investigates a series of attacks in a seaside village.",
+    "poster": "https://images.unsplash.com/photo-1514539079130-25950c84af65?q=80&w=500&auto=format&fit=crop",
+    "genre": "Animation",
+    "year": 2025,
+    "rating": "8.3"
+  },
+  {
+    "id": 13,
+    "title": "Project Hail Mary",
+    "description": "An astronaut wakes up alone on a space station with a mission to save Earth.",
+    "poster": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=500&auto=format&fit=crop",
+    "genre": "Sci-Fi",
+    "year": 2026,
+    "rating": "9.5"
+  },
+  {
+    "id": 14,
+    "title": "The Rip",
+    "description": "Miami cops find a massive cash stash that leads to a deadly betrayal.",
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/The_Rip_poster.jpg/250px-The_Rip_poster.jpg",
+    "genre": "Crime",
+    "year": 2026,
+    "rating": "8.0"
+  },
+  {
+    "id": 15,
+    "title": "Beyond the Skyline",
+    "description": "Earth's survivors fight back against an alien invasion.",
+    "poster": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=500&auto=format&fit=crop",
+    "genre": "Sci-Fi",
+    "year": 2026,
+    "rating": "7.6"
+  },
+  {
+    "id": 16,
+    "title": "Red Notice 2",
+    "description": "The world's greatest art thief and FBI profiler team up for a new heist.",
+    "poster": "https://images.unsplash.com/photo-1508700115892-45ecd05ae2ad?q=80&w=500&auto=format&fit=crop",
+    "genre": "Action",
+    "year": 2025,
+    "rating": "7.8"
+  },
+  {
+    "id": 17,
+    "title": "Squid Game 3",
+    "description": "The deadly games return with higher stakes and new moral dilemmas.",
+    "poster": "https://images.unsplash.com/photo-1627850604058-52e40de1b847?q=80&w=500&auto=format&fit=crop",
+    "genre": "Drama",
+    "year": 2025,
+    "rating": "9.6"
+  },
+  {
+    "id": 18,
+    "title": "The Gray Man 2",
+    "description": "Sierra Six is back on the run as a new assassin tracks his every move.",
+    "poster": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?q=80&w=500&auto=format&fit=crop",
+    "genre": "Action",
+    "year": 2025,
+    "rating": "8.1"
+  },
+  {
+    "id": 19,
+    "title": "Avatar: TLA S2",
+    "description": "Aang and his friends travel to the Earth Kingdom to find a teacher.",
+    "poster": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=500&auto=format&fit=crop",
+    "genre": "Fantasy",
+    "year": 2026,
+    "rating": "8.8"
+  },
+  {
+    "id": 20,
+    "title": "Knives Out 3",
+    "description": "Benoit Blanc travels to a remote island to solve a murder.",
+    "poster": "https://images.unsplash.com/photo-1509248961158-e54f6934749c?q=80&w=500&auto=format&fit=crop",
+    "genre": "Mystery",
+    "year": 2025,
+    "rating": "9.0"
+  }
+]
