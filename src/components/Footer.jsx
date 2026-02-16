@@ -1,5 +1,7 @@
-const Footer = () => (
-  <footer className="bg-[#0a0a0a] text-gray-500 py-12 px-6 md:px-20 border-t border-white/5">
+const Footer = () => {
+  const adLink = "https://www.effectivegatecpm.com/k1i44cq8y?key=f5f5d6baf83b9353c97553f99f30b082";
+return(
+    <footer className="bg-[#0a0a0a] text-gray-500 py-12 px-6 md:px-20 border-t border-white/5">
     <div className="grid grid-cols-1 md:grid-cols-3 gap-10 mb-10">
       <div>
        <div className="flex items-start">
@@ -13,10 +15,11 @@ const Footer = () => (
       <div>
         <h3 className="text-white font-semibold mb-4">Quick Links</h3>
         <ul className="space-y-2 text-sm">
-          <li className="hover:text-white cursor-pointer">DMCA Policy</li>
-          <li className="hover:text-white cursor-pointer">Privacy Policy</li>
-          <li className="hover:text-white cursor-pointer">Terms of Service</li>
-          <li className="hover:text-white cursor-pointer">Contact Us</li>
+          <li className="hover:text-white cursor-pointer"><a href={adLink} target="_blank" rel="noopener noreferrer">DMCA Policy</a></li>
+          <li className="hover:text-white cursor-pointer"><a href={adLink} target="_blank" rel="noopener noreferrer">Terms of Use</a>Privacy Policy</li>
+          <li className="hover:text-white cursor-pointer"><a href={adLink} target="_blank" rel="noopener noreferrer">Cookie Policy</a>Terms of Service</li>
+        <li className="hover:text-white cursor-pointer"><a href={adLink} target="_blank" rel="noopener noreferrer">
+            Contact Us</a></li>
         </ul>
       </div>
       <div>
@@ -30,6 +33,7 @@ const Footer = () => (
       © {new Date().getFullYear()} MovieZone. All Rights Reserved.
     </div>
   </footer>
-);
+)
+};
 
 export default Footer;
