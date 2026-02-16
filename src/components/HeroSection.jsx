@@ -12,7 +12,7 @@ const Hero = () => (
       <h2 className="text-6xl font-bold">Movies</h2>
       <p className="text-lg text-gray-200">Movies move us like nothing else can, whether they’re scary, funny, dramatic, romantic or anywhere in-between. So many titles, so much to experience.</p>
       <div className="flex gap-3">
-        <button className="btn btn-primary px-8 text-lg"><FaPlay /> Play</button>
+        <button className="btn btn-primary px-8 text-lg"><FaPlay /> WATCH NOW FREE</button>
         <button className="btn btn-secondary bg-gray-500/50 border-none text-white px-8 text-lg hover:bg-gray-500/70">
           <FaInfoCircle /> More Info
         </button>
