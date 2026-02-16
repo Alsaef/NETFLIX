@@ -4,11 +4,11 @@ import Hero from './components/HeroSection';
 import MovieRow from './components/MovieRaw';
 import Pricing from './components/Pricing';
 import Footer from './components/Footer';
+import BannerAd from './components/BannerAd';
 
 const App = () => {
   const [movies, setMovies] = useState([]);
   const [loading, setLoading] = useState(true);
-
   useEffect(() => {
     // FIX: Ensure movies.json is in your /public folder
     fetch('/movies.json') 
@@ -32,11 +32,12 @@ const App = () => {
     </div>
   );
 
+
   return (
     <div className='bg-[#141414] min-h-screen overflow-x-hidden'>
       <Navbar />
       <Hero />
-      
+      <BannerAd></BannerAd>
       <div className="relative z-10 mt-24 pb-20 space-y-8">
         {/* Trending: Show all/first 10 */}
         <MovieRow title="Trending Now" movies={movies} />

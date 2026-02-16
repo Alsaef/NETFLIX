@@ -18,6 +18,7 @@ const MovieRow = ({ title, movies }) => {
     }
   };
 
+  const adLink = "https://www.effectivegatecpm.com/k1i44cq8y?key=f5f5d6baf83b9353c97553f99f30b082";
   return (
     <div 
       className="px-6 md:px-12 mb-12 group relative"
@@ -43,7 +44,8 @@ const MovieRow = ({ title, movies }) => {
           className="flex gap-4 overflow-x-scroll no-scrollbar py-4 scroll-smooth"
         >
           {movies.map((movie) => (
-            <div 
+          <a href={adLink} target="_blank" rel="noopener noreferrer">
+              <div 
               key={movie.id} 
               className="flex-none w-[150px] md:w-[230px] group/card transition-all duration-300 ease-in-out hover:scale-105 cursor-pointer relative z-0 hover:z-50"
             >
@@ -68,6 +70,7 @@ const MovieRow = ({ title, movies }) => {
                 </div>
               </div>
             </div>
+          </a>
           ))}
         </div>
 
